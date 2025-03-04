@@ -15,6 +15,7 @@ body {
 font-weight: 400;
 font-style: normal;
 color: white;
+text-shadow: 2px 2px 2px #6b5ef4;
 }
 
 
@@ -43,5 +44,7 @@ color: white;
   #taskCounter{
     color: white;
     text-shadow: 2px 2px 2px #6b5ef4;
-    
+    font-family: "junegull", sans-serif;
+font-weight: 400;
+font-style: normal;
     }
